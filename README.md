@@ -6,7 +6,7 @@
 ---
 
 ## 👀 Interests
-- Data Science & Machine Learning  
+- Machine Learning  
 - Deep Learning & NLP  
 - Web Development (React, Laravel)  
 - Intelligent Systems & Decision Support  
@@ -22,7 +22,7 @@
 ---
 
 ## 💞️ Looking to Collaborate On
-- Data Science & AI projects  
+- AI projects  
 - Machine Learning / Deep Learning applications  
 - Open-source projects related to NLP or analytics  
 
@@ -46,8 +46,3 @@
 
 ## 😄 Pronouns
 She / Her
-
----
-
-## ⚡ Fun Fact
-I love turning real-world problems into intelligent data-driven solutions 🚀
