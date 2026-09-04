@@ -1,19 +1,20 @@
 # 👋 Hi, I’m Kawtar Souhail
 
 🎓 Master’s student in Intelligent Systems Engineering  
-💡 Passionate about Data Science, Artificial Intelligence & Web Development  
+💡 Passionate about  Artificial Intelligence & Web Development  
 
 ---
 
 ##  Interests
+- Web Development (React, Laravel)  
 - Machine Learning  
 - Deep Learning & NLP  
-- Web Development (React, Laravel)  
 - Intelligent Systems & Decision Support  
 
 ---
 
 ##  Currently Learning
+- NextJs
 - Advanced Machine Learning techniques  
 - Deep Learning with TensorFlow & Keras  
 - MLOps & model evaluation  
@@ -23,14 +24,14 @@
 
 ##  Looking to Collaborate On
 - AI projects  
-- Machine Learning / Deep Learning applications  
+- Web Projects
 ---
 
 ## Tech Stack
 - **Languages**: Python, JavaScript, PHP  
 - **ML / DL**: Scikit-learn, TensorFlow, Keras  
 - **Web**: React, Laravel  
-- **Data**: Pandas, NumPy, SQL  
+- **Data**: Pandas, NumPy, SQL ,PostegreSql 
 - **Tools**: Git, GitHub, Jupyter, Docker 
 
 ---
